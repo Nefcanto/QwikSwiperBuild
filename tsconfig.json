@@ -1,0 +1,49 @@
+{
+    "extends": "./TsConfigBase",
+    "compilerOptions": {
+        "paths": {
+            "Base": [
+                "src/Base/Exports"
+            ],
+            "Contents": [
+                "src/Modules/Contents/Exports"
+            ],
+            "Globalization": [
+                "src/Modules/Globalization/Exports"
+            ],
+            "Forms": [
+                "src/Modules/Forms/Exports"
+            ],
+            "Blog": [
+                "src/Modules/Blog/Exports"
+            ],
+            "Orders": [
+                "src/Modules/Orders/Exports"
+            ],
+            "Navigation": [
+                "src/Modules/Navigation/Exports"
+            ],
+            "Configuration": [
+                "src/Modules/Configuration/Exports"
+            ],
+            "Taxonomy": [
+                "src/Modules/Taxonomy/Exports"
+            ],
+            "Courses": [
+                "src/Modules/Courses/Exports"
+            ],
+            "Shared": [
+                "src/Components/Shared/Exports"
+            ],
+            "Svg": [
+                "src/Components/Svg/Exports"
+            ],
+            "Index": [
+                "src/Components/Index/Exports"
+            ],
+            "OrdersParts": [
+                "src/Components/OrdersParts/Exports"
+            ]
+        }
+    }
+}
